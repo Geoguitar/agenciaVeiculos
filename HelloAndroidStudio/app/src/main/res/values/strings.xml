@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloAndroidStudio</string>
+    <string name="meuTexto">Olá tudo mundo!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="btLogin">Logar</string>
+    <string name="tLogin">Logar</string>
+    <string name="tSenha">Digite a senha</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+
+    <string name="hello_world">Ola Gente boa!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tela_treis">TelaTreis</string>
+</resources>

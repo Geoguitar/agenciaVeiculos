@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Logar</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_Login">Login</string>
+</resources>

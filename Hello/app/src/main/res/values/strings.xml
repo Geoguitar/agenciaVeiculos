@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_work_group">WorkGroupActivity</string>
+    <string name="tela_workGroup">Siga</string>
+    <string name="novatela">Olá Pessoal</string>
+
+</resources>
