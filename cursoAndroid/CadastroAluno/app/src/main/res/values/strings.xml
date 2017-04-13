@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CadastroAluno</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="nome_aluno">Nome do Aluno</string>
+    <string name="add_aluno">Adicionar Aluno</string>
+</resources>
